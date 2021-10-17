@@ -1,4 +1,4 @@
-<<!doctype html>
+<!doctype html>
 <html lang="en">
 <head>
     <title>Admin Data</title>
@@ -21,7 +21,7 @@
             <tr>
                 <th style="padding: 30px">Name</th>
                 <th style="padding: 30px">Email</th>
-                <th style="padding: 30px">Acction</th>
+                <th style="padding: 30px">Action</th>
             </tr>
             @foreach($data as $data)
                 <tr align="center">
